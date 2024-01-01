@@ -1,0 +1,27 @@
+<div class="header">
+             <div class="container">
+                <!-- <i class="fa fa-id-card" aria-hidden="true"></i> -->
+                <div class="logo">
+
+                    <img src="img/logo/logo.png" alt="logo img" draggable="false">
+
+                </div>  
+                <ul class="nav">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Portfolio</a></li>
+                    <li><a href="#">Services</a></li>
+                    <li><a href="#">Prices</a></li>
+                    <li><a href="#">Team</a></li>
+                    <li>
+                        <a href="#">Blog</a>
+
+                
+                   </li>
+                    <li><a href="#">Contact</a></li>
+
+                </ul>
+                <div class="clean"></div>
+            </div>
+            
+        </div>
